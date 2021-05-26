@@ -1,0 +1,59 @@
+.navbar-brand{
+padding-right:  20%;
+padding-left: 8%;
+}
+.nav-item{
+  padding-left: 1.1rem;
+  border-radius: 50px;
+}
+.btn{
+
+}
+.containter-fluid{
+  left: 0;
+  right: 0;
+  color: blue;
+}
+
+
+.carousel-item{
+  height: 500px;
+  padding: 22% 15%;
+  text-align: center;
+  background-color: grey;
+  color: #fff;
+}
+#startup{
+  padding: 4% 20%;
+}
+.startup-img{
+  width: 100%
+}
+.startup-boxes{
+  padding-top:2%;
+}
+.fas{
+  color:#ff8533;
+}
+.fab{
+  color: #b3d9ff;
+
+}
+.fas:hover{
+  color:  #cc5200;
+}
+.fab:hover{
+  color:#3399ff;
+}
+#client{
+  padding: 4% 20%;
+  background-color:  #e6f2ff;
+}
+.client-img{
+  width: 50%;
+  border-radius: 40px;
+}
+.client-box{
+  text-align: center;
+
+}
